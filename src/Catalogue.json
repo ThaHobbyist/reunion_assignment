@@ -1,0 +1,136 @@
+{
+	"Catalogue": [
+		{
+			"Name": "Pearl Estate",
+			"Address": "347, Regent Street.",
+			"City": "Kolkata",
+			"Price": 3500,
+			"Type": "House",
+			"Available": 1666117800,
+			"Beds": 3,
+			"Bathroom": 1,
+			"Area": "7x7",
+			"img": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg"
+		},
+		{
+			"Name": "JS Group",
+			"Address": "748, M.G.Road",
+			"City": "Mumbai",
+			"Price": 2600,
+			"Type": "Apartment",
+			"Available": 1666118800,
+			"Beds": 2,
+			"Bathroom": 1,
+			"Area": "3x3",
+			"img": "https://thumbs.dreamstime.com/b/apartment-building-19532951.jpg"
+		},
+		{
+			"Name": "Jim Mansion",
+			"Address": "315, Chandni Chowk",
+			"City": "Delhi",
+			"Price": 35000,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 4,
+			"Bathroom": 2,
+			"Area": "7x7",
+			"img": "https://images.adsttc.com/media/images/5ecd/d4ac/b357/65c6/7300/009d/large_jpg/02C.jpg?1590547607"
+		},
+		{
+			"Name": "KaramChand Haveli",
+			"Address": "21/8, Elora Street",
+			"City": "Bengaluru",
+			"Price": 2500,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 5,
+			"Bathroom": 3,
+			"Area": "7x7",
+			"img": "https://assets-news.housing.com/news/wp-content/uploads/2022/04/07013406/ELEVATED-HOUSE-DESIGN-FEATURE-compressed.jpg"
+		},
+		{
+			"Name": "Bricc's Apartment",
+			"Address": "57/1A Electronic City",
+			"City": "Bengaluru",
+			"Price": 2500,
+			"Type": "Apartment",
+			"Available": 1666119800,
+			"Beds": 1,
+			"Bathroom": 1,
+			"Area": "7x7",
+			"img": "https://teja12.kuikr.com/is/a/c/880x425/public/images/apartments/original_img/k9yqlp.gif"
+		},
+		{
+			"Name": "Jimmy Residence",
+			"Address": "Park Street",
+			"City": "Kolkata",
+			"Price": 3500,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 2,
+			"Bathroom": 1,
+			"Area": "7x7",
+			"img": "https://images.adsttc.com/media/images/5ecd/d4ac/b357/65c6/7300/009d/large_jpg/02C.jpg?1590547607"
+		},
+		{
+			"Name": "Kevin Recidence",
+			"Address": "15A G.T Road",
+			"City": "Delhi",
+			"Price": 3200,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 2,
+			"Bathroom": 1,
+			"Area": "6x4",
+			"img": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/home-improvement/wp-content/uploads/2022/07/download-23.jpg"
+		},
+		{
+			"Name": "Mohit Bunglaw",
+			"Address": "42/3 Green Street",
+			"City": "Mumbai",
+			"Price": 2400,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 2,
+			"Bathroom": 2,
+			"Area": "5x4",
+			"img": "https://img.staticmb.com/mbcontent//images/uploads/2022/5/modern-kerala-house-design.jpg"
+		},
+		{
+			"Name": "Steven Estate",
+			"Address": "217, Gandhi More",
+			"City": "Bengaluru",
+			"Price": 1500,
+			"Type": "Apartment",
+			"Available": 1666119800,
+			"Beds": 1,
+			"Bathroom": 1,
+			"Area": "4x4",
+			"img": "https://archello.s3.eu-central-1.amazonaws.com/images/2018/10/11/Contemporary-Modern-House-Design-6.1539270983.8601.jpg"
+		},
+		{
+			"Name": "Steward Mansion",
+			"Address": "315, Revernd Park",
+			"City": "Delhi",
+			"Price": 3900,
+			"Type": "House",
+			"Available": 1666119800,
+			"Beds": 3,
+			"Bathroom": 1,
+			"Area": "4x5",
+			"img": "https://www.businessinsider.in/photo/69285646/difference-between-home-and-house.jpg?imgsize=1446462"
+		},
+		{
+			"Name": "Andrew Apartments",
+			"Address": "32/3 Truffle Park",
+			"City": "Bengaluru",
+			"Price": 2200,
+			"Type": "Apartment",
+			"Available": 1666119800,
+			"Beds": 1,
+			"Bathroom": 1,
+			"Area": "3x3",
+			"img": "https://im.proptiger.com/1/1493340/6/estate-apartments-elevation-11051772.jpeg"
+		}
+	]
+}
